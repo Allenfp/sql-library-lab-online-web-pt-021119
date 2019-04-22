@@ -1,5 +1,8 @@
 
-INSERT 
+INSERT INTO series (title, author_id, subgenre_id)
+VALUES
+  ("Harry Thrones",1,1);
+  ("Game of Potters",2,2)
 
 
 
