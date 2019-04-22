@@ -29,12 +29,13 @@ CREATE TABLE characters (
   motto TEXT,
   species TEXT,
   series_id INTEGER,
-  author_id INtEGER
+  author_id INTEGER
 );
 
 CREATE TABLE character_books 
-AS ( id INTEGER PRIMARY KEY,
-     book_id 
-    );
+AS (id INTEGER PRIMARY KEY,
+    character_id INTEGER,
+    book_id INTEGER
+);
 
 
