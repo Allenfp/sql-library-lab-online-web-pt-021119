@@ -18,13 +18,13 @@ VALUES
 INSERT INTO characters (name, motto, species, series_id, author_id)
 VALUES 
   ("Mike", "Just Do It!", "dude", 1,1),
-  ("Josh", "Just Do It!", "dude", 1,1),
-  ("Allen", "Just Do It!", "dude", 1,1),
-  ("Larry", "Just Do It!", "dude", 1,1),
-  ("Tuan", "Just Do It!", "dude", 1,1),
-  ("Tito", "Just Do It!", "dude", 1,1),
-  ("Byanka", "Just Do It!", "dude", 1,1),
-  ("Paul", "Just Do It!", "dude", 1,1);
+  ("Josh", "Just Do It!", "bro", 1,1),
+  ("Allen", "Just Do It!", "fam", 1,1),
+  ("Larry", "Just Do It!", "sqaud", 1,1),
+  ("Tuan", "Just Do It!", "dude", 2,2),
+  ("Tito", "Just Do It!", "dude", 2,2),
+  ("Byanka", "Just Do It!", "bro", 2,2),
+  ("Paul", "Just Do It!", "fam", 2,2);
 
 
 -- CREATE TABLE series (
