@@ -5,6 +5,8 @@ VALUES
   ("Game of Potters",2,2);
   
 
+INSERT INTO books (title, series_id, year)
+VALUES
 
 
 
