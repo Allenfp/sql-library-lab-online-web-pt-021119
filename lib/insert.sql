@@ -20,12 +20,18 @@ VALUES
   ("Mike", "Just Do It!", "dude", 1,1),
   ("Josh", "Just Do It!", "bro", 1,1),
   ("Allen", "Just Do It!", "fam", 1,1),
-  ("Larry", "Just Do It!", "sqaud", 1,1),
+  ("Larry", "Just Do It!", "squad", 1,1),
   ("Tuan", "Just Do It!", "dude", 2,2),
   ("Tito", "Just Do It!", "dude", 2,2),
   ("Byanka", "Just Do It!", "bro", 2,2),
   ("Paul", "Just Do It!", "fam", 2,2);
 
+
+INSERT INTO subgenres (name)
+VALUES
+  ("Gore"),
+  ("Hack-and-Slash")
+  
 
 -- CREATE TABLE series (
 --   id INTEGER PRIMARY KEY,
