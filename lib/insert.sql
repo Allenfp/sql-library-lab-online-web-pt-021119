@@ -36,7 +36,7 @@ VALUES
 INSERT INTO authors (name)
 VALUES
   ("Mike Tyson"),
-  ("Evander 'the Real Deal' Holyfield")
+  ("Evander 'the Real Deal' Holyfield");
   
 INSERT INTO character_books (id, book_id, character_id) 
 VALUES 
