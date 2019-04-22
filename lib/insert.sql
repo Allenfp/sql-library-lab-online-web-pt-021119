@@ -30,7 +30,7 @@ VALUES
 INSERT INTO subgenres (name)
 VALUES
   ("Gore"),
-  ("Hack-and-Slash")
+  ("Hack-and-Slash");
   
 
 -- CREATE TABLE series (
