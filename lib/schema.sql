@@ -32,3 +32,9 @@ CREATE TABLE characters (
   author_id INtEGER
 );
 
+CREATE TABLE character_books 
+AS ( id INTEGER PRIMARY KEY,
+     book_id 
+    );
+
+
