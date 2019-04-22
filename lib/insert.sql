@@ -7,6 +7,12 @@ VALUES
 
 INSERT INTO books (title, series_id, year)
 VALUES
+  ("A book",1,2013),
+  ("B book",1,2014),
+  ("C book",1,2015),
+  ("D book",2,2012),
+  ("E book",2,2014),
+  ("F book",2,2016),
 
 
 
