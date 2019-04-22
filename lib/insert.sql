@@ -32,6 +32,11 @@ VALUES
   ("Gore"),
   ("Hack-and-Slash");
   
+  
+INSERT INTO authors (name)
+VALUES
+  ("Mike Tyson"),
+  ("Evander 'the Real Deal' Holyfield")
 
 -- CREATE TABLE series (
 --   id INTEGER PRIMARY KEY,
